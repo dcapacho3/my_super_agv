@@ -1,0 +1,22 @@
+[1.818s] Invoking command in '/home/david/tesis/superdev_ws/src/my_super_agv': PYTHONPATH=/home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/prefix_override:/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_super_agv build --build-base /home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/build install --record /home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/install.log --single-version-externally-managed install_data
+[2.581s] running egg_info
+[2.583s] writing build/my_super_agv/my_super_agv.egg-info/PKG-INFO
+[2.584s] writing dependency_links to build/my_super_agv/my_super_agv.egg-info/dependency_links.txt
+[2.584s] writing entry points to build/my_super_agv/my_super_agv.egg-info/entry_points.txt
+[2.585s] writing requirements to build/my_super_agv/my_super_agv.egg-info/requires.txt
+[2.585s] writing top-level names to build/my_super_agv/my_super_agv.egg-info/top_level.txt
+[2.589s] reading manifest file 'build/my_super_agv/my_super_agv.egg-info/SOURCES.txt'
+[2.590s] adding license file 'LICENSE'
+[2.592s] writing manifest file 'build/my_super_agv/my_super_agv.egg-info/SOURCES.txt'
+[2.592s] running build
+[2.593s] running build_py
+[2.593s] running install
+[2.594s] running install_lib
+[2.598s] running install_data
+[2.598s] running install_egg_info
+[2.603s] removing '/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv-0.0.0-py3.10.egg-info' (and everything under it)
+[2.604s] Copying build/my_super_agv/my_super_agv.egg-info to /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv-0.0.0-py3.10.egg-info
+[2.607s] running install_scripts
+[2.658s] Installing teleop script to /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/my_super_agv
+[2.658s] writing list of installed files to '/home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/install.log'
+[2.737s] Invoked command in '/home/david/tesis/superdev_ws/src/my_super_agv' returned '0': PYTHONPATH=/home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/prefix_override:/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/my_super_agv build --build-base /home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/build install --record /home/david/tesis/superdev_ws/src/my_super_agv/build/my_super_agv/install.log --single-version-externally-managed install_data

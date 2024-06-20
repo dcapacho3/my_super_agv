@@ -1,0 +1,16 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+build/my_super_agv/my_super_agv.egg-info/PKG-INFO
+build/my_super_agv/my_super_agv.egg-info/SOURCES.txt
+build/my_super_agv/my_super_agv.egg-info/dependency_links.txt
+build/my_super_agv/my_super_agv.egg-info/entry_points.txt
+build/my_super_agv/my_super_agv.egg-info/requires.txt
+build/my_super_agv/my_super_agv.egg-info/top_level.txt
+build/my_super_agv/my_super_agv.egg-info/zip-safe
+my_super_agv/__init__.py
+resource/my_super_agv
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
