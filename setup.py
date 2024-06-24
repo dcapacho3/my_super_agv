@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        'teleop=my_super_agv.teleop:main'
+        'teleop=my_super_agv.teleop:main',
+        'teleop_fix=my_super_agv.teleop_fix:main'
         ],
     },
 )

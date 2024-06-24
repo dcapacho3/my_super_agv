@@ -1,4 +1,5 @@
 LICENSE
+README.md
 package.xml
 setup.cfg
 setup.py
@@ -10,6 +11,8 @@ build/my_super_agv/my_super_agv.egg-info/requires.txt
 build/my_super_agv/my_super_agv.egg-info/top_level.txt
 build/my_super_agv/my_super_agv.egg-info/zip-safe
 my_super_agv/__init__.py
+my_super_agv/teleop.py
+my_super_agv/teleop_fix.py
 resource/my_super_agv
 test/test_copyright.py
 test/test_flake8.py

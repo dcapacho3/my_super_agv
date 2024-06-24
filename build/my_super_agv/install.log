@@ -1,5 +1,9 @@
+/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/teleop.py
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/__init__.py
+/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/teleop_fix.py
+/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/__pycache__/teleop.cpython-310.pyc
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/__pycache__/__init__.cpython-310.pyc
+/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv/__pycache__/teleop_fix.cpython-310.pyc
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/share/ament_index/resource_index/packages/my_super_agv
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/share/my_super_agv/package.xml
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv-0.0.0-py3.10.egg-info/entry_points.txt
@@ -10,3 +14,4 @@
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv-0.0.0-py3.10.egg-info/top_level.txt
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/python3.10/site-packages/my_super_agv-0.0.0-py3.10.egg-info/PKG-INFO
 /home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/my_super_agv/teleop
+/home/david/tesis/superdev_ws/src/my_super_agv/install/my_super_agv/lib/my_super_agv/teleop_fix

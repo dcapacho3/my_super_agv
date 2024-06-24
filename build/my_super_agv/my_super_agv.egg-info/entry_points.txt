@@ -1,3 +1,4 @@
 [console_scripts]
-teleop = scripts.teleop:main
+teleop = my_super_agv.teleop:main
+teleop_fix = my_super_agv.teleop_fix:main
 
